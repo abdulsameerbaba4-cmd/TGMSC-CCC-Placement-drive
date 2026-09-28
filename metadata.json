@@ -1,0 +1,8 @@
+{
+  "name": "tgmsc\u0026ccc placement drive",
+  "description": "Enterprise Placement Drive Automation Platform for universities and recruiters — eligibility automation, secure assessments, interviews, shortlisting, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
